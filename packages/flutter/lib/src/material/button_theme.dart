@@ -251,7 +251,7 @@ class ButtonThemeData with Diagnosticable {
   /// Create a button theme object that can be used with [ButtonTheme]
   /// or [ThemeData].
   ///
-  /// The [textTheme], [minWidth], [height], [alignedDropDown], and
+  /// The [textTheme], [minWidth], [height], [alignedDropdown], and
   /// [layoutBehavior] parameters must not be null. The [minWidth] and
   /// [height] parameters must greater than or equal to zero.
   ///
